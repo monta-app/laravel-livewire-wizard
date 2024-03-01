@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: laravel-livewire-wizard
+  description: Headless Livewire components to build wizards
+
+spec:
+  type: library
+  lifecycle: production
+  owner: SRE
+  system: Platform
