@@ -3,9 +3,8 @@ kind: Component
 metadata:
   name: laravel-livewire-wizard
   description: Headless Livewire components to build wizards
-
 spec:
   type: library
   lifecycle: production
-  owner: SRE
-  system: Platform
+  owner: sre
+  system: platform-division
